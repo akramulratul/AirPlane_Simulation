@@ -1,0 +1,11 @@
+
+How To PlayClick and hold mouse left key to gain altitude of the plane
+Release the mouse left key to reduce the altitude
+Use the Right mouse key to speed up the plane(NOS)
+
+-->The main aim of the game is to avoid the obstacles: buildings and clouds
+-->Also the meter at the bottom shows the distance travelled,NITROS left,Atitude and LEVEL.
+
+-->As you reach distance multples of 50 tour level increases as well as the speed of the plane.
+==>ENJOY PLAYING THE GAME
+width = 800	height= 600
